@@ -1,40 +1,36 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c896,50:3b9eff,100:a78bfa&height=180&section=header&text=M.%20Hamail%20Rana&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=WordPress%20Developer%20%E2%80%A2%20Business%20%26%20Tech%20Student%20%E2%80%A2%20Open%20to%20Remote&descAlignY=58&descColor=ffffffbb" />
+
+# M. Hamail Rana
+
+**WordPress Developer · Business & Tech Student · Open to Remote**
+
+📍 Lahore, Pakistan &nbsp;·&nbsp; ✉️ hamailrana007@gmail.com &nbsp;·&nbsp; 📞 +92 326 138 6773
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamail-rana)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamailrana007@gmail.com)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-1D9E75?style=flat-square)
+![Remote Ready](https://img.shields.io/badge/Remote%20Ready-0C447C?style=flat-square)
+
 </div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:hamailrana007@gmail.com">
-    <img src="https://img.shields.io/badge/hamailrana007@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Lahore,%20Pakistan-0f172a?style=flat-square&logo=googlemaps&logoColor=00c896"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Remote-00c896?style=flat-square&logo=circle&logoColor=white"/>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=hamailrana007&style=flat-square&color=3b9eff&label=profile+views"/>
-</div>
-
-<br/>
 
 ---
 
-### 👋 &nbsp;About Me
+## About
 
 I'm a **WordPress & WooCommerce developer** and **Business & Tech student** at Beaconhouse National University, Lahore. I build production-ready websites for real international clients — handling everything from scoping to launch to post-support, fully independently.
 
 Currently exploring **SaaS, product management, and digital marketing** while staying deep in e-commerce and web development.
 
-```yaml
-📍  Lahore, Pakistan          🎓  BNU — B.Hons Management & Business Computing (3.17 GPA)
-💼  Freelance since 2023      🌍  Available: Remote · Hybrid · On-site globally
-📞  +92 326 138 6773          ✉️   hamailrana007@gmail.com
-```
+| | |
+|---|---|
+| 🎓 BNU — B.Hons Management & Business Computing | CGPA 3.17 / 4.0 |
+| 💼 Freelancing since 2023 | International clients, remote |
+| 🌍 Available | Remote · Hybrid · On-site globally |
+| 0 missed deadlines | Ever |
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+## Tech Stack
 
 **Web & CMS**
 
@@ -44,55 +40,59 @@ Currently exploring **SaaS, product management, and digital marketing** while st
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
 
 **Data & Analytics**
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00c896?style=flat-square&logo=databricks&logoColor=white)
-![EDA](https://img.shields.io/badge/Exploratory%20Analysis-3b9eff?style=flat-square&logo=chartdotjs&logoColor=white)
-
-**Business & Tools**
-
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=flat-square&logo=powerapps&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
-![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Tools & Productivity**
+
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 💼 &nbsp;Experience
+## Experience
 
-**🖥️ Freelance WordPress Developer** &nbsp;·&nbsp; *2023 – Present · Remote (International Clients)*
+**🖥️ Freelance WordPress Developer** &nbsp;·&nbsp; *2023 – Present · Remote*
 
 - Built end-to-end WordPress & WooCommerce websites for international clients across e-commerce and service industries
 - Managed full project lifecycle: scoping → design → development → testing → post-launch support
 - Integrated custom themes, payment gateways, plugins, and third-party APIs per client specs
 - Maintained async client communication across time zones with zero missed deadlines
 
-**🛒 E-Commerce & Operations Associate** &nbsp;·&nbsp; *3 Months · Local Boutique, Lahore*
+**🛒 E-Commerce & Operations Associate** &nbsp;·&nbsp; *3 months · Local Boutique, Lahore*
 
 - Operated WooCommerce store: product listings, pricing, inventory, and order processing
-- Managed end-to-end fulfillment pipeline — packing, dispatch, and delivery tracking
+- Managed end-to-end fulfillment — packing, dispatch, and delivery tracking
 - Handled customer queries and daily management decisions across sales and logistics
 
-**🌍 Event Volunteer — UNDP** &nbsp;·&nbsp; *2024 · Beaconhouse National University, Lahore*
+**🌍 Event Volunteer — UNDP** &nbsp;·&nbsp; *2024 · Beaconhouse National University*
 
-- Coordinated logistics and participant management for a UNDP-organized institutional event
+- Coordinated logistics and participant management for a UNDP-organised institutional event
 - Collaborated with faculty and international development professionals
 
 ---
 
-### 🚀 &nbsp;Projects
+## Projects
 
-| &nbsp; | Project | Stack | Description |
-|---|---|---|---|
-| 🌐 | **WordPress Client Portfolio** | WordPress · WooCommerce · PHP | Multiple production-ready, responsive, SEO-optimized sites for real paying international clients |
-| 📊 | **University Data Analysis** | Microsoft Excel | Cleaned & analyzed a real-world dataset; presented visual insights to academic faculty |
-| ⚙️ | **Power Apps Business Workflow** | Microsoft Power Apps | Low-code internal workflow automation app built as part of university coursework |
+| Project | Stack | Description |
+|---|---|---|
+| 🌐 **WordPress Client Portfolio** | WordPress · WooCommerce · PHP | Multiple production-ready, responsive, SEO-optimised sites for real paying international clients |
+| 📊 **University Data Analysis** | Microsoft Excel | Cleaned & analysed a real-world dataset; presented visual insights to academic faculty |
+| ⚙️ **Power Apps Business Workflow** | Microsoft Power Apps | Low-code internal workflow automation app built as part of university coursework |
 
 ---
 
-### 🎓 &nbsp;Education
+## Education
 
 | Degree | Institution | Year |
 |---|---|---|
@@ -100,45 +100,29 @@ Currently exploring **SaaS, product management, and digital marketing** while st
 | **Higher Secondary Certificate (F.Sc.)** | Forman Christian College, Lahore | 2023 |
 | **Secondary School Certificate** | Unique School, Muslim Town | 2021 |
 
-*Focus: Business Development · Product Management · Data Analysis · Information Systems · Digital Marketing*
+*Focus areas: Business Development · Product Management · Data Analysis · Information Systems · Digital Marketing*
 
 ---
 
-### 📊 &nbsp;GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hamailrana007&show_icons=true&hide_border=true&bg_color=0f172a&title_color=00c896&text_color=94a3b8&icon_color=3b9eff&count_private=true&rank_icon=github"/>
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamailrana007&layout=compact&hide_border=true&bg_color=0f172a&title_color=00c896&text_color=94a3b8&langs_count=6"/>
-</div>
 
-<br/>
+![Hamail's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamailrana007&show_icons=true&hide_border=true&bg_color=ffffff&title_color=3C3489&text_color=444441&icon_color=1D9E75&count_private=true&rank_icon=github)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hamailrana007&layout=compact&hide_border=true&bg_color=ffffff&title_color=3C3489&text_color=444441&langs_count=6)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hamailrana007&hide_border=true&background=0f172a&ring=00c896&fire=ff6b6b&currStreakLabel=3b9eff&sideLabels=a78bfa&dates=64748b&stroke=1e293b"/>
 </div>
 
 ---
 
-### 💬 &nbsp;Let's Connect
-
-> Open to **freelance projects**, **remote internships**, and **collaborations** in web development, e-commerce, or business & product roles.
-
 <div align="center">
-  <a href="mailto:hamailrana007@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/hamail-rana">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-    <img src="https://img.shields.io/badge/Portfolio-00c896?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</div>
 
-<br/>
+**Open to freelance projects, remote internships, and collaborations**
+in web development, e-commerce, or business & product roles.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:3b9eff,100:00c896&height=100&section=footer"/>
+[![Email Me](https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamailrana007@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamail-rana)
+
 </div>
